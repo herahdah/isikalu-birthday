@@ -8,7 +8,7 @@
     align-items: center;
 }
 #NBLogo{
-    color: purple;
+    color: #2B0051;
 }
 #NBLogo span{
     color: blue;
@@ -34,7 +34,7 @@
 }
     
 #Navbar a{
-    color:purple;
+    color:#2B0051;
     text-decoration: none;
     font-size: 20px;
     font-weight: 800;
@@ -88,7 +88,7 @@ text-transform: uppercase;
 #AllStarParty{
     background-blend-mode: overlay;
     background-color: rgba(128, 0, 128, 0.692);
-    background-image: url(GIP_364.jpg);
+    background-image: url(./Image/GIP_364.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 200vh;
@@ -103,7 +103,7 @@ text-transform: uppercase;
 #ExpacterMartoonio{
     text-align: center;
     margin-top: 110px;
-    background-image: url(MoonBit.png);
+    background-image: url(./Image/MoonBit.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10%;
@@ -132,7 +132,7 @@ text-transform: uppercase;
 
 #Gap{
     text-align: center;
-    background-image: url(./C.jpg);
+    background-image: url(./Image/C.jpg);
     background-size: 120%;
     background-repeat: no-repeat;
     color: #FFF;
@@ -153,7 +153,7 @@ text-transform: uppercase;
     margin-top: 10%;
     padding: 5%;
     text-align: center;
-   background-image: linear-gradient(to right, purple,blue,purple);
+   background-image: linear-gradient(to right, purple,blue);
     color: #ffffff;
     font-size: 30px;
 }
@@ -198,7 +198,7 @@ text-transform: uppercase;
 }
 
 #Gallvak h2{
-    color: rgb(255, 128, 0);
+    color: #2B0051;
     font-size: 60px;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -221,7 +221,7 @@ text-transform: uppercase;
    justify-content: space-evenly;
    padding-top: 3%;
    padding-bottom: 3%;
-   background-image: linear-gradient(to right, purple,blue,purple);
+   background-color:#2B0051 ;
    color: white;
    justify-items: center;
 }
@@ -251,7 +251,7 @@ text-transform: uppercase;
     padding-top: 4%;
     font-size: 60px;
     text-transform: uppercase;
- background-image: linear-gradient(blue,purple);
+ background-image: linear-gradient(blue,#2B0051);
  color: white;
 }
 
@@ -329,7 +329,7 @@ textarea{
 }
 
 footer{
-    background-color: purple;
+    background-color:#2B0051;
     text-align: center;
     color: white;
     font-size: 15px;
